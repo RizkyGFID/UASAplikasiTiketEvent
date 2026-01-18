@@ -1,5 +1,24 @@
 # Aplikasi Pembelian Tiket Event
 
+Sebelumnya nama saya Ahmad Rizky Pramudia Pratama dengan NIM 312410272 Dari Kelas TI.24.A4
+Disini saya akan menjelaskan aplikasi yang saya buat dengan nama "Ticket Event Area"
+
+Proyek ini adalah sebuah aplikasi Android yang berfungsi untuk penjualan tiket sebuah acara,
+yang dimana acara yang dimaksud disini apapun, entah acara konser, meet and greet, atau game.
+Disini Acara yang saya buat adalah acara game dari HoYoverse yang dinamakan "Hoyo FEST".
+Fitur utama yang terlihat dari file ini adalah halaman pemilihan tiket, di mana pengguna 
+dapat melihat dan memilih berbagai jenis tiket yang tersedia.
+Halaman ini menampilkan beberapa kategori tiket dengan detailnya masing-masing, seperti:
+
+•Regular: Tiket standar untuk satu hari.
+•Regular 4 Days: Paket tiket untuk empat hari.
+•VIP: Tiket dengan berbagai keuntungan eksklusif seperti akses prioritas, merchandise khusus, dan hadiah gratis.
+
+Setiap jenis tiket ditampilkan dalam bentuk kartu (CardView) yang informatif, lengkap dengan nama tiket, harga, 
+deskripsi keuntungan, dan tombol "Pilih" dengan warna yang berbeda-beda untuk membedakannya.
+Secara teknis, aplikasi ini dibuat menggunakan komponen standar Android Jetpack seperti ConstraintLayout,
+ScrollView, dan CardView untuk menciptakan antarmuka yang modern dan responsif.
+
 Berikut ada beberapa isi dari kode Java dan XML untuk Aplikasi Pembelian Tiket Event Ini
 
 # Java
