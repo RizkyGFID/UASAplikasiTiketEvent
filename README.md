@@ -19,6 +19,9 @@ deskripsi keuntungan, dan tombol "Pilih" dengan warna yang berbeda-beda untuk me
 Secara teknis, aplikasi ini dibuat menggunakan komponen standar Android Jetpack seperti ConstraintLayout,
 ScrollView, dan CardView untuk menciptakan antarmuka yang modern dan responsif.
 
+Untuk Demo Aplikasinya ada di video berikut
+```https://youtube.com/shorts/ij7pLr4E_vk?feature=share```
+
 Berikut ada beberapa isi dari kode Java dan XML untuk Aplikasi Pembelian Tiket Event Ini
 
 # Java
